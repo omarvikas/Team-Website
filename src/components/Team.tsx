@@ -29,7 +29,35 @@ const Team = () => {
     },
     {
       name: 'Anand Kumar',
-      role: 'Operations & Support',
+      role: 'Senior Executive',
+      bio: 'Managing day-to-day operations and providing technical support to ensure smooth functioning of all educational programs.',
+      linkedin: '#anand-linkedin',
+      email: 'anand.kumar@ei.study'
+    }
+    {
+      name: 'Pollepalli Ramesh',
+      role: 'junior Executive',
+      bio: 'Managing day-to-day operations and providing technical support to ensure smooth functioning of all educational programs.',
+      linkedin: '#anand-linkedin',
+      email: 'anand.kumar@ei.study'
+    }
+    {
+      name: 'Bheem Rao',
+      role: 'Project Coordinator',
+      bio: 'Managing day-to-day operations and providing technical support to ensure smooth functioning of all educational programs.',
+      linkedin: '#anand-linkedin',
+      email: 'anand.kumar@ei.study'
+    }
+    {
+      name: 'Nunavath Bansi',
+      role: 'Project Coordinator',
+      bio: 'Managing day-to-day operations and providing technical support to ensure smooth functioning of all educational programs.',
+      linkedin: '#anand-linkedin',
+      email: 'anand.kumar@ei.study'
+    }
+     {
+      name: 'Kishor Goli',
+      role: 'Project Coordinator',
       bio: 'Managing day-to-day operations and providing technical support to ensure smooth functioning of all educational programs.',
       linkedin: '#anand-linkedin',
       email: 'anand.kumar@ei.study'
