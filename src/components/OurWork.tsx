@@ -6,7 +6,7 @@ const OurWork = () => {
     {
       icon: Brain,
       title: 'Mindspark Implementation',
-      description: 'Adaptive learning platform that personalizes education for each student, covering Math, English, and Computational Thinking.',
+      description: 'Personal Adaptive learning platform providing tailord content for each student, covering Math, English, Telugu, and Computational Thinking.',
       details: ['AI-powered learning paths', 'Real-time progress tracking', 'Customized difficulty levels']
     },
     {
@@ -17,9 +17,9 @@ const OurWork = () => {
     },
     {
       icon: BookOpen,
-      title: 'Curriculum Support',
-      description: 'Focused on Math, English, and Computational Thinking subjects with age-appropriate content.',
-      details: ['Grade 3-9 coverage', 'State curriculum alignment', 'Interactive learning modules']
+      title: 'Capacity Building',
+      description: 'Enhancing capcity of school teachers to use real-time data of students to use in their classrooms.',
+      details: ['Data and Dashboard Access', 'State curriculum alignment', 'Interactive learning modules']
     },
     {
       icon: Zap,
@@ -37,8 +37,8 @@ const OurWork = () => {
             Our Work in Telangana
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We're transforming education through innovative technology solutions and strategic partnerships, 
-            focusing exclusively on the Telangana geography.
+            We're transforming education through innovations and strategic partnerships, 
+            focusing on systemtic changes.
           </p>
         </div>
 
