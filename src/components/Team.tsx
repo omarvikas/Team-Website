@@ -15,25 +15,25 @@ const Team = () => {
       name: 'Asish Nemalikanty',
       role: 'Associate Program Manager',
       bio: 'Leading educational transformation initiatives across Telangana with over 8 years of experience in education technology and program management.',
-      image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://media.licdn.com/dms/image/v2/D4D03AQGxETnKBfjLYA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703739332916?e=1756944000&v=beta&t=Npd1R7sqE2KS8X7lZmbAa700unrzAJaCtzVLWkQNG_o',
       linkedin: 'https://www.linkedin.com/in/asish-nemalikanty-18254a240/',
       email: 'nemalikanty.asish@ei.study'
     },
     {
       name: 'Parthasaradhi M',
-      role: 'Project Coordinator',
+      role: 'Project Lead',
       bio: 'Coordinating multiple educational projects and ensuring seamless implementation across government schools in Telangana.',
-      image: 'https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400',
-      linkedin: '#partha-linkedin',
+      image: 'https://media.licdn.com/dms/image/v2/D5603AQGtyc5GgiW8uQ/profile-displayphoto-shrink_800_800/B56ZcAqSVGHwAc-/0/1748062781749?e=1756944000&v=beta&t=TRUDP7ikZWgLHAkeZqYLoSz88_YePO3_rRQyVwxh_pA',
+      linkedin: 'https://www.linkedin.com/in/parthasaradhi-m-7986b3118/',
       email: 'partha@ei.study'
     },
     {
-      name: 'Anand Prakash',
+      name: 'Anand Kumar',
       role: 'Operations & Support',
       bio: 'Managing day-to-day operations and providing technical support to ensure smooth functioning of all educational programs.',
       image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=400',
       linkedin: '#anand-linkedin',
-      email: 'anand@ei.study'
+      email: 'anand.kumar@ei.study'
     }
   ];
 
