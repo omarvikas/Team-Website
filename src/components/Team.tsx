@@ -36,7 +36,7 @@ const Team = () => {
     },
     {
       name: 'Pollepalli Ramesh',
-      role: 'junior Executive',
+      role: 'Junior Executive',
       bio: 'Managing day-to-day operations and providing technical support to ensure smooth functioning of all educational programs.',
       linkedin: '#anand-linkedin',
       email: 'anand.kumar@ei.study'
