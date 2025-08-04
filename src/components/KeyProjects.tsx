@@ -7,7 +7,7 @@ const KeyProjects = () => {
       name: 'Amazon Future Engineer',
       description: 'Comprehensive computer science education program reaching underserved communities.',
       icon: Laptop,
-      stats: { students: '15,000+', schools: '75' },
+      stats: { students: '36,000+', schools: '110' },
       link: '#amazon-csr',
       color: 'from-orange-500 to-orange-600'
     },
@@ -15,7 +15,7 @@ const KeyProjects = () => {
       name: "Cognizant's Steam4All",
       description: 'STEAM education initiative focusing on Science, Technology, Engineering, Arts, and Math.',
       icon: Award,
-      stats: { students: '12,000+', schools: '60' },
+      stats: { students: '7,000+', schools: '24' },
       link: '#cognizant-csr',
       color: 'from-blue-500 to-blue-600'
     },
@@ -23,7 +23,7 @@ const KeyProjects = () => {
       name: 'P&G Shiksha',
       description: 'Education program aimed at improving learning outcomes in government schools.',
       icon: BookOpen,
-      stats: { students: '18,000+', schools: '90' },
+      stats: { students: '12,000+', schools: '63' },
       link: '#pg-csr',
       color: 'from-green-500 to-green-600'
     },
@@ -31,7 +31,7 @@ const KeyProjects = () => {
       name: 'Digi Vidya Shala',
       description: 'Digital classroom initiative funded by GlobalLogic to enhance digital literacy.',
       icon: Users,
-      stats: { students: '8,000+', schools: '40' },
+      stats: { students: '700+', schools: '3' },
       link: '#globallogic-csr',
       color: 'from-purple-500 to-purple-600'
     }
