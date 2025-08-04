@@ -22,7 +22,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Driving student success through Mindspark, PAL, and impactful partnerships
+            Making systematic changes in the ecosystem to enhance learning outcomes. 
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
@@ -38,14 +38,14 @@ const Hero = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
             <div className="flex flex-col items-center p-6 bg-white/60 backdrop-blur-sm rounded-xl border border-gray-100">
               <Users className="w-12 h-12 text-blue-600 mb-4" />
-              <h3 className="text-lg font-semibold text-gray-900 mb-2">Students Impacted</h3>
-              <p className="text-3xl font-bold text-blue-600">50,000+</p>
+              <h3 className="text-lg font-semibold text-gray-900 mb-2">Students Impacting</h3>
+              <p className="text-3xl font-bold text-blue-600">60,000+</p>
             </div>
             
             <div className="flex flex-col items-center p-6 bg-white/60 backdrop-blur-sm rounded-xl border border-gray-100">
               <BookOpen className="w-12 h-12 text-blue-600 mb-4" />
-              <h3 className="text-lg font-semibold text-gray-900 mb-2">Schools</h3>
-              <p className="text-3xl font-bold text-blue-600">200+</p>
+              <h3 className="text-lg font-semibold text-gray-900 mb-2">Present Schools</h3>
+              <p className="text-3xl font-bold text-blue-600">201</p>
             </div>
             
             <div className="flex flex-col items-center p-6 bg-white/60 backdrop-blur-sm rounded-xl border border-gray-100">
