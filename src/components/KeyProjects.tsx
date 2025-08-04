@@ -4,7 +4,7 @@ import { ExternalLink, Users, Award, BookOpen, Laptop } from 'lucide-react';
 const KeyProjects = () => {
   const projects = [
     {
-      name: 'Amazon Future Engineer Program',
+      name: 'Amazon Future Engineer',
       description: 'Comprehensive computer science education program reaching underserved communities.',
       icon: Laptop,
       stats: { students: '15,000+', schools: '75' },

@@ -4,6 +4,14 @@ import { Linkedin, Mail, Phone } from 'lucide-react';
 const Team = () => {
   const teamMembers = [
     {
+      name: 'Vikas Omar',
+      role: 'Program Manager',
+      bio: 'Leading educational transformation initiatives across Telangana with over 8 years of experience in education technology and program management.',
+      image: 'https://https://media.licdn.com/dms/image/v2/C5603AQE6CukRJ7hc9w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1642054654043?e=1756944000&v=beta&t=ag4AYsg6tj8V8EDxYmPuzlHCW_UcOgdiLBJb0rZN66A.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400',
+      linkedin: 'https://www.linkedin.com/in/omarvikas/',
+      email: 'vikas.omar@ei.study'
+    },
+    {
       name: 'Asish Kumar',
       role: 'Telangana Lead',
       bio: 'Leading educational transformation initiatives across Telangana with over 8 years of experience in education technology and program management.',

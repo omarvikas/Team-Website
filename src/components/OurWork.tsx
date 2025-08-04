@@ -38,7 +38,7 @@ const OurWork = () => {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             We're transforming education through innovations and strategic partnerships, 
-            focusing on systemtic changes.
+            focusing on large-scale systemtic changes.
           </p>
         </div>
 

@@ -22,7 +22,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Making systematic changes in the ecosystem to enhance learning outcomes. 
+            Making systematic changes in the ecosystem to enhance learning outcomes for children. 
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
