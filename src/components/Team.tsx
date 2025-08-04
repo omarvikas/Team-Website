@@ -31,7 +31,6 @@ const Team = () => {
       name: 'Anand Kumar',
       role: 'Operations & Support',
       bio: 'Managing day-to-day operations and providing technical support to ensure smooth functioning of all educational programs.',
-      image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=400',
       linkedin: '#anand-linkedin',
       email: 'anand.kumar@ei.study'
     }

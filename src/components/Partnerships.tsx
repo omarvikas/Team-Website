@@ -9,7 +9,7 @@ const Partnerships = () => {
       description: 'Comprehensive educational support for tribal students across residential institutions in Telangana.',
       icon: Users,
       website: 'https://tgtwreis.in',
-      stats: { institutions: '268', students: '45,000+' },
+      stats: { institutions: '33', students: '8,000+' },
       collaboration: 'Digital learning platforms and teacher training programs'
     },
     {
@@ -18,7 +18,7 @@ const Partnerships = () => {
       description: 'Empowering students from socially disadvantaged backgrounds through quality education.',
       icon: Award,
       website: 'https://tswreis.in',
-      stats: { institutions: '350+', students: '60,000+' },
+      stats: { institutions: '70', students: '24,000+' },
       collaboration: 'Adaptive learning systems and curriculum enhancement'
     },
     {
@@ -27,7 +27,7 @@ const Partnerships = () => {
       description: 'Supporting backward class students with comprehensive educational opportunities.',
       icon: BookOpen,
       website: 'https://mjptbcwreis.cgg.gov.in',
-      stats: { institutions: '200+', students: '35,000+' },
+      stats: { institutions: '24', students: '7,000+' },
       collaboration: 'Technology integration and learning outcome improvement'
     },
     {
@@ -36,7 +36,7 @@ const Partnerships = () => {
       description: 'Policy-level collaboration for tribal education development and implementation.',
       icon: Building,
       website: 'https://tribal.telangana.gov.in',
-      stats: { districts: '33', beneficiaries: '75,000+' },
+      stats: { districts: '67', beneficiaries: '20,000+' },
       collaboration: 'Strategic planning and program implementation'
     }
   ];
